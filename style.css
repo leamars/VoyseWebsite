@@ -45,6 +45,7 @@ p {
 	color:white;
 	padding-bottom: 100px;
 	margin-bottom: 100px;
+	top:-100px;
 }
 
 #top #lower {
@@ -74,7 +75,7 @@ p {
 .blurb {
 	text-align: center;
 	z-index: 20;
-	margin-top:50px;
+	margin-bottom: 25px;
 }
 
 .container .blurb p {
@@ -167,10 +168,6 @@ p {
 	display: none;
 }
 
-}
-
-.container h2 {
-	margin-top:100px;
 }
 
 .container .terms h2 {
