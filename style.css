@@ -168,8 +168,13 @@ p {
 	display: none;
 }
 
-}
-
 .container .terms h2 {
 	margin-top:20px;
 }
+
+.inner .animated h2 {
+	margin-top: 100px;
+}
+
+}
+
