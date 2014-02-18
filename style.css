@@ -140,7 +140,7 @@ p {
   margin: 20px 0;
 }
 
-@media (max-width: 690px) {
+@media (max-width: 740px) {
 
 #top #iphone {
 	left: 50%;
@@ -158,6 +158,10 @@ p {
 
 #top #lower {
 	left:auto;
+}
+
+.inner .animated h2 {
+	margin-top: 100px;
 }
 
 }
