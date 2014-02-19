@@ -52,11 +52,11 @@ p {
 	position: relative;
 	z-index: 2;
 	text-align: center;
-	left:20%;
 }
 
 #lower {
 	top:63%;
+	margin-left:35%;
 }
 
 .inner {
@@ -158,6 +158,7 @@ p {
 
 #top #lower {
 	left:auto;
+	margin-left:auto;
 }
 
 .inner .animated h2 {
