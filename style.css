@@ -140,6 +140,33 @@ p {
   margin: 20px 0;
 }
 
+@media (max-device-width: 740px) {
+
+#top #iphone {
+	left: 50%;
+	top: 35%;
+}
+
+#lower {
+	top:10%;
+}
+
+.inner {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#top #lower {
+	left:auto;
+	margin-left:auto;
+}
+
+.inner .animated h2 {
+	margin-top: 100px;
+}
+
+}
+
 @media (max-width: 740px) {
 
 #top #iphone {
@@ -168,6 +195,22 @@ p {
 }
 
 @media (max-width: 520px) {
+
+.title {
+	display: none;
+}
+
+.container .terms h2 {
+	margin-top:20px;
+}
+
+.inner .animated h2 {
+	margin-top: 100px;
+}
+
+}
+
+@media (max-device-width: 520px) {
 
 .title {
 	display: none;
